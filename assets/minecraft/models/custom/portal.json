@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"portal": "block/nether_portal"
+		"portal": "item/custom/portal"
 	},
 	"elements": [
 		{
